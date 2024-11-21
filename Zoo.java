@@ -54,6 +54,7 @@ public class Zoo {
 
 		System.out.println("---------------Feed all animals----------------");
 		myZoo.feedAllAnimals();
+		System.out.println("Hallo");
 
 	}
 
